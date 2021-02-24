@@ -37,7 +37,7 @@ def choice(prompt, choices=('y', 'n')):
                   "be sure to enter a valid option:\n>")
 
     return choice
-
+"code is optimized for the first portion"
 
 def get_filters():
     """Ask user to specify city(ies) and filters, month(s) and weekday(s).
