@@ -74,7 +74,7 @@ def get_filters():
 
     print('-'*40)
     return city, month, day
-
+"code is optimized for the second portion"
 
 def load_data(city, month, day):
     """Load data for the specified filters of city(ies), month(s) and
