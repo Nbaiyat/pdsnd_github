@@ -13,3 +13,5 @@ chicago.csv
 new_york_city.csv
 washington.csv
 
+### Code Review
+2/24/2021 - Reviewed Code and no optimization ideas currently 
